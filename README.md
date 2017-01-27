@@ -24,4 +24,4 @@
     * 除終點站為到達時刻外，其他各站均為開車時刻。
 
 ## 關於本時刻表
-* 本時刻表僅供參考，若和[官方時刻表](http://www.thsrc.com.tw/UploadFiles/TicketFile/13c42cc0-300f-4f71-a26f-9355cdb901d3.pdf "官方時刻表")有所出入，請以官方時刻表為準。
+* 本時刻表僅供參考，若和[官方時刻表](http://www.thsrc.com.tw/UploadFiles/TicketFile/a61ad3a0-7961-4b42-89c2-835cab008c90.pdf "官方時刻表")有所出入，請以官方時刻表為準。
