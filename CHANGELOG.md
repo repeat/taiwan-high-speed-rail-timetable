@@ -1,6 +1,6 @@
 # Changelog
 
-## 未釋出
+## v1.1.20170428
 
 ### 新增
 - 將 southbound.csv 和 northbound.csv 內容合併的 timetable.csv
