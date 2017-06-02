@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.2.20170701
+
+### 修改
+- CSV 檔：
+ - 依照 2017/07/01 生效的[官方時刻表](http://www.thsrc.com.tw/UploadFiles/TicketFile/aaaed025-1f36-4a54-afa5-31b642847142.pdf "官方時刻表")更新內容及 README.md
+
 ## v1.1.20170428
 
 ### 新增
