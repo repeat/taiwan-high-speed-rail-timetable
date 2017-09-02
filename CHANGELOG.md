@@ -1,5 +1,11 @@
 # Changelog
 
+## 尚未釋出
+
+ * 修正 CSV 檔案內容
+ * 修正 CHANGELOG.md, README.md 排版
+ * 依照 2017/08/31 發佈的[新聞稿](http://www.thsrc.com.tw/tw/News/Detail/b9312bcd-1e27-4266-b5c1-acb4b9bc2a81/2)更新內容及 README.md
+
 ## v1.2.20170701
 
 ### 修改
