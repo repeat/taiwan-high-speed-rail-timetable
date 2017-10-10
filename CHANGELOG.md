@@ -1,6 +1,6 @@
 # Changelog
 
-## 尚未釋出
+## v1.3.20171003
 
  * 修正 CSV 檔案內容
  * 修正 CHANGELOG.md, README.md 排版
