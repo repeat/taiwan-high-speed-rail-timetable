@@ -1,5 +1,9 @@
 # Changelog
 
+## 尚未釋出
+
+ * 依照 2018/05/23 發佈的[新聞稿](http://www.thsrc.com.tw/tw/News/Detail/a7f8e8a1-c219-425c-bc5d-a3a112f0814c/4)更新內容及 README.md
+
 ## v1.3.20171003
 
  * 修正 CSV 檔案內容
