@@ -1,6 +1,6 @@
 # Changelog
 
-## 尚未釋出
+## v1.4.20180701
 
  * 依照 2018/05/23 發佈的[新聞稿](http://www.thsrc.com.tw/tw/News/Detail/a7f8e8a1-c219-425c-bc5d-a3a112f0814c/4)更新內容及 README.md
 
