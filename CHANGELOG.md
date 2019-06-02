@@ -1,5 +1,8 @@
 # Changelog
 
+## Unrelease
+ * 依照 2019/05/27 發佈的[新聞稿](http://www.thsrc.com.tw/tw/News/Detail/8bec2026-a098-40a6-a16b-c06515c68f04/7)更新內容及 README.md
+
 ## v1.5.20181008
 
  * 依照 2018/09/07 發佈的[新聞稿](http://www.thsrc.com.tw/tw/News/Detail/c4412e0b-668e-4d5e-9591-ede53c23ef6c/3)更新內容及 README.md
