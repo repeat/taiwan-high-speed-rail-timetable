@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.7.20190728
+ * 依照 2019/07/23 發佈的[新聞稿](https://www.thsrc.com.tw/tw/News/Detail/7026b831-d491-46cd-b38f-3b3dc65abca3/4)更新內容及 README.md
+
 ## v1.6.20190701
  * 依照 2019/05/27 發佈的[新聞稿](http://www.thsrc.com.tw/tw/News/Detail/8bec2026-a098-40a6-a16b-c06515c68f04/7)更新內容及 README.md
 
