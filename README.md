@@ -1,5 +1,5 @@
 # 台灣高鐵時刻表
-## 2019/07/28
+## 2019/09/01
 
 ### 檔案格式： CSV
 
@@ -30,4 +30,4 @@
  * 除終點站為到達時刻外，其他各站均為開車時刻。
 
 ## 關於本時刻表
- * 本時刻表僅供參考，若和[官方時刻表](https://www.thsrc.com.tw/UploadFiles/TicketFile/0414cf80-f947-40b6-be69-72fbe4d8fc82.pdf)有所出入，請以官方時刻表為準。
+ * 本時刻表僅供參考，若和[官方時刻表](https://www.thsrc.com.tw/UploadFiles/TicketFile/435ce7d4-4922-418d-84a6-852214ea4d09.pdf)有所出入，請以官方時刻表為準。
