@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.8.20190901
+ * 更新 1508 車次為 508 （無新聞稿）
+
 ## v1.7.20190728
  * 依照 2019/07/23 發佈的[新聞稿](https://www.thsrc.com.tw/tw/News/Detail/7026b831-d491-46cd-b38f-3b3dc65abca3/4)更新內容及 README.md
 
