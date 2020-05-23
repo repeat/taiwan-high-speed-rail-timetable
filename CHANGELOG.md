@@ -1,6 +1,6 @@
 # Changelog
 
-## 尚未釋出
+## v1.10.20200518
  * 依照 2020/04/17 發佈的[新聞稿](https://www.thsrc.com.tw/tw/News/Detail/502bb127-4b47-45ef-8059-f80c2ce1f72f/2)更新內容及 README.md
 
 ## v1.9.20200418
