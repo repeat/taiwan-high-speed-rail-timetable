@@ -1,5 +1,5 @@
 # 台灣高鐵時刻表
-## 2020/04/18
+## 2020/05/18
 
 ### 檔案格式： CSV
 
@@ -29,4 +29,4 @@
  * 除終點站為到達時刻外，其他各站均為開車時刻。
 
 ## 關於本時刻表
- * 本時刻表僅供參考，若和[官方時刻表](https://www.thsrc.com.tw/UploadFiles/TicketFile/76b0e2c5-9f08-4c3a-8464-28e9d1879065.pdf)有所出入，請以官方時刻表為準。
+ * 本時刻表僅供參考，若和[官方時刻表](https://www.thsrc.com.tw/UploadFiles/TicketFile/dd5a487b-bac2-42e5-adcb-7fd77f13248e.pdf)有所出入，請以官方時刻表為準。
