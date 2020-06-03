@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.12.20200601
+ * 依照 2020/06/01 發佈的[新聞稿](https://www.thsrc.com.tw/tw/News/Detail/f83fc041-267f-4ed3-b4ac-ecf3b93308cd/4) 更新時刻表 CSV 檔案及 README.md
+ * 新增 2019/09/01 版本時刻表 CSV ，以方便使用 `diff -U0` 比較調整班次的差異
+
 ## v1.11.20200529
  * 依照 2020/05/22 發佈的[新聞稿 1](https://www.thsrc.com.tw/tw/News/Detail/eba50b82-103e-4d4b-ad0f-94b36e8279a4/2) 以及 2020/05/29 發佈的[新聞稿 2](http://www.thsrc.com.tw/tw/News/Detail/c1f69455-7846-48ed-bc6e-8aee556e8c3a/2) 更新時刻表 CSV 檔案及 README.md
  * 因應頻繁調整班次，修正時刻表 CSV 檔案路徑
