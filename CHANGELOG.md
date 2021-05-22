@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.14.20210521
+
+* 依照 2020/05/18 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/61b0d3ba-2bd3-4c2f-b879-f427ffc179bb) 更新時刻表 CSV 檔案及 README.md
+* 新增對照增減班用的 diff 檔
+* markdown lint
+
 ## v1.13.20200703
 
 * 依照 2020/07/03 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/201e511c-e9d9-44a5-8f45-c5d349726fe7) 更新時刻表 CSV 檔案及 README.md
