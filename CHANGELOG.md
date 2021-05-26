@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.15.20210527
+
+* 依照 2020/05/25 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/8ff8baf6-5b74-4a46-889c-37a0be532d6e) 更新時刻表 CSV 檔案及 README.md
+
 ## v1.14.20210521
 
 * 依照 2020/05/18 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/61b0d3ba-2bd3-4c2f-b879-f427ffc179bb) 更新時刻表 CSV 檔案及 README.md
