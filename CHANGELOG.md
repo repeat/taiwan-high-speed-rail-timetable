@@ -1,17 +1,22 @@
 # Changelog
 
+## v1.17.20220104
+
+* 依照 2021/11/19 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/fed12f98-8200-4747-a0ab-b9b22425f7a6) 更新時刻表 CSV 檔案及 README.md
+
+
 ## v1.16.20211013
 
-* 依照 2020/09/13 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/464ab7d6-b5f3-4484-a178-46f48395c0e4) 更新時刻表 CSV 檔案及 README.md
+* 依照 2021/09/13 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/464ab7d6-b5f3-4484-a178-46f48395c0e4) 更新時刻表 CSV 檔案及 README.md
 
 
 ## v1.15.20210527
 
-* 依照 2020/05/25 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/8ff8baf6-5b74-4a46-889c-37a0be532d6e) 更新時刻表 CSV 檔案及 README.md
+* 依照 2021/05/25 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/8ff8baf6-5b74-4a46-889c-37a0be532d6e) 更新時刻表 CSV 檔案及 README.md
 
 ## v1.14.20210521
 
-* 依照 2020/05/18 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/61b0d3ba-2bd3-4c2f-b879-f427ffc179bb) 更新時刻表 CSV 檔案及 README.md
+* 依照 2021/05/18 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/61b0d3ba-2bd3-4c2f-b879-f427ffc179bb) 更新時刻表 CSV 檔案及 README.md
 * 新增對照增減班用的 diff 檔
 * markdown lint
 
