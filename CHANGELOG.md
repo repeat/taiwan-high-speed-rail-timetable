@@ -1,18 +1,21 @@
 # Changelog
 
+## v1.18.20231016
+
+* 依照 2023/05/19 發佈的[新聞稿 1](https://www.thsrc.com.tw/ArticleContent/1a38bc3b-40ec-4b0e-a67f-642417bfc563)以及 2023/09/15 發佈的[新聞稿 2](https://www.thsrc.com.tw/ArticleContent/1b4a81c2-2442-4993-bb07-848ccb0aac0a) 更新時刻表 CSV 檔案及 README.md
+* markdown lint
+
 ## v1.17.20220104
 
-* 依照 2021/11/19 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/fed12f98-8200-4747-a0ab-b9b22425f7a6) 更新時刻表 CSV 檔案及 README.md
-
+依照 2021/11/19 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/fed12f98-8200-4747-a0ab-b9b22425f7a6) 更新時刻表 CSV 檔案及 README.md
 
 ## v1.16.20211013
 
-* 依照 2021/09/13 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/464ab7d6-b5f3-4484-a178-46f48395c0e4) 更新時刻表 CSV 檔案及 README.md
-
+依照 2021/09/13 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/464ab7d6-b5f3-4484-a178-46f48395c0e4) 更新時刻表 CSV 檔案及 README.md
 
 ## v1.15.20210527
 
-* 依照 2021/05/25 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/8ff8baf6-5b74-4a46-889c-37a0be532d6e) 更新時刻表 CSV 檔案及 README.md
+依照 2021/05/25 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/8ff8baf6-5b74-4a46-889c-37a0be532d6e) 更新時刻表 CSV 檔案及 README.md
 
 ## v1.14.20210521
 
