@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.21.20251107
+
+依照 2025/10/22 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/0f980c73-da47-4a2f-8e9d-2d49f5c4f9fb) 更新時刻表 CSV 檔案
+
 ## v1.20.20240701
 
 依照 2024/05/21 發佈的[新聞稿](https://www.thsrc.com.tw/ArticleContent/70485428-0ad2-4c4a-8552-a371b78d7a16) 更新時刻表 CSV 檔案
